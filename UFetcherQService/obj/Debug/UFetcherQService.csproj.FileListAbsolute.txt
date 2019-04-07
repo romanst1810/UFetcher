@@ -1,0 +1,7 @@
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherQService\bin\Debug\UFetcherQService.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherQService\bin\Debug\UFetcherQService.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherQService\bin\Debug\UFetcherCore.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherQService\bin\Debug\UFetcherCore.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherQService\obj\Debug\UFetcherQService.csprojResolveAssemblyReference.cache
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherQService\obj\Debug\UFetcherQService.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherQService\obj\Debug\UFetcherQService.pdb

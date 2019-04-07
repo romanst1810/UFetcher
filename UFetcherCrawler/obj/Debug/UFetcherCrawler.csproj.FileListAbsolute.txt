@@ -1,0 +1,7 @@
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherCrawler\bin\Debug\UFetcherCrawler.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherCrawler\bin\Debug\UFetcherCrawler.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherCrawler\bin\Debug\UFetcherCore.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherCrawler\bin\Debug\UFetcherCore.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherCrawler\obj\Debug\UFetcherCrawler.csprojResolveAssemblyReference.cache
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherCrawler\obj\Debug\UFetcherCrawler.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherCrawler\obj\Debug\UFetcherCrawler.pdb

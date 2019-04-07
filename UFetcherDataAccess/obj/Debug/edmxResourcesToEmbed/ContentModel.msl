@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UFetcherDBModelStoreContainer" CdmEntityContainer="UFetcherDBEntities">
+    <EntitySetMapping Name="TB_UrlContent">
+      <EntityTypeMapping TypeName="UFetcherDBModel.TB_UrlContent">
+        <MappingFragment StoreEntitySet="TB_UrlContent">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="HtmlUrl" ColumnName="HtmlUrl" />
+          <ScalarProperty Name="WebhookUrl" ColumnName="WebhookUrl" />
+          <ScalarProperty Name="ResultHtml" ColumnName="ResultHtml" />
+          <ScalarProperty Name="UrlContentStatus" ColumnName="UrlContentStatus" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,7 @@
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherWebhook\obj\Debug\UFetcherWebhook.csprojResolveAssemblyReference.cache
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherWebhook\bin\Debug\UFetcherWebhook.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherWebhook\bin\Debug\UFetcherWebhook.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherWebhook\bin\Debug\UFetcherCore.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherWebhook\bin\Debug\UFetcherCore.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherWebhook\obj\Debug\UFetcherWebhook.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherWebhook\obj\Debug\UFetcherWebhook.pdb

@@ -1,0 +1,12 @@
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\bin\Debug\UFetcherDataAccess.dll.config
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\bin\Debug\UFetcherDataAccess.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\bin\Debug\UFetcherDataAccess.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\bin\Debug\EntityFramework.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\bin\Debug\UFetcherCore.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\bin\Debug\UFetcherCore.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\bin\Debug\EntityFramework.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\obj\Debug\UFetcherDataAccess.csprojResolveAssemblyReference.cache
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\obj\Debug\UFetcherDataAccess.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\User1st\UFetcher\UFetcherDataAccess\obj\Debug\UFetcherDataAccess.pdb
